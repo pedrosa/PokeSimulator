@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeSimulator.Server", "PokeSimulator.Server\PokeSimulator.Server.csproj", "{14FB999D-0036-407E-ACC2-EC1EA918DBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeSimulator.Domain", "PokeSimulator.Domain\PokeSimulator.Domain.csproj", "{9AC7EA43-6292-48ED-A9EA-8B31F2A9B0E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeSimulator.Application", "PokeSimulator.Application\PokeSimulator.Application.csproj", "{C856D2AF-71CD-43D8-8CD4-61DBA024FA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeSimulator.Test", "PokeSimulator.Test\PokeSimulator.Test.csproj", "{7697B0CC-73FA-4F46-91AC-0C4A4B33F720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FB999D-0036-407E-ACC2-EC1EA918DBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FB999D-0036-407E-ACC2-EC1EA918DBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FB999D-0036-407E-ACC2-EC1EA918DBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FB999D-0036-407E-ACC2-EC1EA918DBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC7EA43-6292-48ED-A9EA-8B31F2A9B0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC7EA43-6292-48ED-A9EA-8B31F2A9B0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC7EA43-6292-48ED-A9EA-8B31F2A9B0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC7EA43-6292-48ED-A9EA-8B31F2A9B0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C856D2AF-71CD-43D8-8CD4-61DBA024FA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C856D2AF-71CD-43D8-8CD4-61DBA024FA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C856D2AF-71CD-43D8-8CD4-61DBA024FA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C856D2AF-71CD-43D8-8CD4-61DBA024FA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7697B0CC-73FA-4F46-91AC-0C4A4B33F720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7697B0CC-73FA-4F46-91AC-0C4A4B33F720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7697B0CC-73FA-4F46-91AC-0C4A4B33F720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7697B0CC-73FA-4F46-91AC-0C4A4B33F720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
